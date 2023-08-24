@@ -2,7 +2,7 @@
 # Setting up our Project
 npm init
 ## Install the following packages by running these commands.
-insnpm install express mongoose bcrypt
+npm install express mongoose bcrypt
 
 ## Below is the project structure for this project.
 📦projet
